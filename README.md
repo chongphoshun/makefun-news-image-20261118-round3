@@ -58,10 +58,10 @@ the IAEA calls the US–Saudi nuclear deal "very satisfactory"; Houthi
 missiles are fired at Riyadh as the coalition hits 60 targets; a Gaza
 hospital chief's detention is extended six months; Voyager 1 reaches
 one light-day from Earth; Iran and the US to hold Geneva nuclear
-talks; Ukraine and Russia set for Geneva peace talks; GTA VI rolls out
-worldwide after 13 years.
+talks; Ukraine and Russia set for Geneva peace talks; the US may force
+firms to disclose their use of Chinese AI.
 
-Sources: Reuters, AP, Al Jazeera, IMD, Euronews, CNN, Federal Reserve,
+Sources: Reuters, AP, Al Jazeera, NASA, IMD, Euronews, CNN, Federal Reserve,
 BBC — 18 Nov 2026. Full links in SOURCES.md.
 
 ## How it works

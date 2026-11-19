@@ -120,6 +120,33 @@ itself did not check out:
   which is how they were verified. A human opening them in a browser
   gets the article normally.
 
+## Cleanup round 4 (19 Nov 2026) — GTA VI date error + final URL upgrades
+
+The user's pre-submit checks caught one more date error and three URL
+upgrades:
+
+- **#50 GTA VI → replaced.** Rockstar's official release date is
+  **Thursday, 19 Nov 2026** (Rockstar's own GTA VI page: "Coming
+  November 19, 2026"; Rockstar Newswire 6 Nov 2025; Take-Two Q2 FY27
+  results 9 Nov 2026; Reuters 18 Nov: "GTA VI hits shelves tomorrow").
+  The Reuters 18 Nov article itself says the game "will be unlocked...
+  at midnight in each market on Thursday". A "rolls out worldwide"
+  brief under "ALSO ON WEDNESDAY 18 NOVEMBER" would have been a false
+  date claim. New brief: **US may force firms to disclose Chinese AI
+  use** (Reuters exclusive, 18 Nov).
+- **#45** The Diplomatic Insight → **AP wire copy on Military.com**
+  (HTTP 200, "Originally published by Associated Press", 18 Nov
+  10:22 AM EST; two cruise missiles intercepted toward Riyadh,
+  Tuesday's strikes destroyed "60 legitimate military targets").
+  Story unchanged.
+- **#46** Barbados Gazette (Al Jazeera wire copy) → **Al Jazeera
+  direct** (aljazeera.com, HTTP 200 verified, 18 Nov 18:22 UTC).
+  Story unchanged.
+- **#47** ScienceAlert → **NASA news release** (nasa.gov, HTTP 200
+  verified; milestone 18 Nov 5:16:07 a.m. EST). Story unchanged.
+- **#44** IAEA Reuters URL re-confirmed via search index (full article
+  text from the exact URL, Reuters 18 Nov). No change.
+
 ## "By the numbers" trace
 
 - **56–44 Senate majority** → grid #10 "Peltola wins; Democrats hold 56"
@@ -176,12 +203,12 @@ itself did not check out:
 | 42 | Mideast states push to avert all-out war with Iran. | https://apnews.com/article/iran-us-kuwait-gulf-attacks-bahrain-b1f0b530cffe951e6fcc1e27b2e1af94 | "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes, officials say. Government and security officials from the Persian Gulf countries, as well as Pakistan and Turkey, have engaged in concerted diplomacy, including phone calls with senior U.S. officials, in a bid to avert renewed war in the region." (AP, 18 Nov) |
 | 43 | Yemen war may stretch months; US pulls carrier. | https://www.brownstoneworldwide.com/uss-george-washington-leaves-middle-east-two-carriers-iran-november-18-2026/ | "The USS George Washington has departed the Middle East, bringing the number of American aircraft carriers supporting operations involving Iran back down to two after a brief three-carrier overlap, the Associated Press and USNI News reported Wednesday." (18 Nov; Saudi officials cited as saying Yemen fighting could continue for six more months.) |
 | 44 | IAEA backs US–Saudi nuclear deal; Grossi calls inspections "very satisfactory". | https://www.reuters.com/world/middle-east/iaea-chief-says-planned-us-saudi-nuclear-deal-very-satisfactory-inspections-2026-11-18/ | "The provisions in a planned US-Saudi nuclear deal for inspections in Saudi Arabia are 'very satisfactory' even though they do not include the gold-standard Additional Protocol, the UN nuclear watchdog's chief said on Wednesday." (Reuters, 18 Nov) |
-| 45 | Houthis fire missiles at Riyadh; coalition hits 60 targets. | https://thediplomaticinsight.com/saudi-arabia-intercepts-houthi-cruise-missile/ | "The Saudi-led coalition has intercepted and destroyed a cruise missile launched by Yemen's Houthi group towards the Riyadh region... The Saudi-led coalition also announced on Wednesday that it had destroyed 60 Houthi military targets across Yemen's provinces of Sanaa, Hodeidah, Amran and Saada." (The Diplomatic Insight, 18 Nov) |
-| 46 | Gaza hospital chief's detention extended six months. | https://barbadosgazette.com/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge/ (Al Jazeera wire copy) | "An Israeli court has extended the detention of Hussam Abu Safia, the director of Gaza's Kamal Adwan Hospital, who remains held without charge amid repeated calls for his release. Abu Safia's lawyer said that a court in Beersheba decided on Wednesday to extend the physician's detention for a further six months." (Al Jazeera, 18 Nov) |
-| 47 | Voyager 1 reaches one light-day from Earth. | https://www.sciencealert.com/voyager-1-has-traveled-through-space-at-38000-mph-since-1977-and-this-wednesday-will-finally-reach-1-light-day | "This Wednesday, the spacecraft will officially reach 1 light-day away from Earth... on 18 November 2026 at 10:16 UTC (2:16 AM PST), Voyager 1 will reach a distance of 25.9 billion kilometers from its home planet." (ScienceAlert, 17 Nov; milestone 18 Nov) |
+| 45 | Houthis fire missiles at Riyadh; coalition hits 60 targets. | https://www.military.com/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in-bahrain (AP wire copy, 18 Nov) | "Saudi air defenses intercepted and destroyed two cruise missiles fired toward the capital, Riyadh, by Iran-backed Houthi rebels in Yemen, according to Maj. Gen. Turki al-Malki, spokesman for the Saudi-led coalition fighting the Houthis." "Al-Malki said that Tuesday's strikes destroyed '60 legitimate military targets' and aimed to weaken the Houthis' missile and drone capabilities." (AP, 18 Nov) |
+| 46 | Gaza hospital chief's detention extended six months. | https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss (Al Jazeera direct, 18 Nov; HTTP 200 verified) | "An Israeli court has extended the detention of Hussam Abu Safia, the director of Gaza's Kamal Adwan Hospital, who remains held without charge amid repeated calls for his release. Abu Safia's lawyer said that a court in Beersheba decided on Wednesday to extend the physician's detention for a further six months." (Al Jazeera, 18 Nov) |
+| 47 | Voyager 1 reaches one light-day from Earth. | https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/ (NASA, 10 Nov; milestone 18 Nov; HTTP 200 verified) | "Voyager 1 reaches one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft." Milestone moment 18 Nov 5:16:07 a.m. EST (NASA Science). (NASA, 18 Nov) |
 | 48 | Iran and US to hold Geneva nuclear talks. | https://foxnews.com/world/iran-vows-do-whatever-takes-make-nuclear-deal-happen-report | "Iran's deputy foreign minister insisted Tuesday that his country will do 'whatever it takes' to reach a deal with the U.S. over its nuclear program... U.S. special envoy Steve Witkoff and Jared Kushner are set to meet with an Iranian delegation in Geneva on Thursday, according to Reuters." (Fox News, 17 Nov) |
 | 49 | Ukraine and Russia set for Geneva peace talks. | https://enmi.life/worthy-news/?story=geneva-peace-talks-resume-amid-heavy-drone-strikes-worthy-news-in-depth | "Delegations gathered in Geneva for US-backed peace talks; Ukraine, Russia set for peace talks in Geneva with U.S. mediation." (Worthy News, 18 Nov; Access24 18 Nov 09:29 PM: "Ukraine, Russia Set For Peace Talks In Geneva With U.S. Mediation") |
-| 50 | GTA VI rolls out worldwide after 13 years. | https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/ | "After 13 years and an estimated $1 billion or more in production costs, the most anticipated video game release in history will be available to play. 'Grand Theft Auto VI' will be unlocked — many have already downloaded it to their consoles — at midnight in each market on Thursday, beginning with New Zealand." (Reuters, 18 Nov) |
+| 50 | US may force firms to disclose Chinese AI use. | https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/ | "The Trump administration is considering requiring US companies to publicly disclose their use of Chinese AI models, a bid to discourage reliance on the technology without imposing new restrictions that could anger industry or Beijing, three people told Reuters." "The Treasury Department and the White House Office of Science and Technology Policy (OSTP) have discussed the plan, which would apply to companies such as Airbnb." (Reuters, 18 Nov) |
 
 ## Notes
 
@@ -196,6 +223,8 @@ itself did not check out:
 - **Nine stories were replaced** in the cleanup round (grid #14 + briefs
   #23, #24, #25, #27, #28, #29, #30, #37); **five more briefs were
   replaced in cleanup round 3** (#44, #45, #46, #47, #50) and five
-  URLs were upgraded (#13, #17, #28, #37, #48); none dropped — the count
-  stays at 50 (3 hero + 15 grid + 32 briefs). All 50 verified, all
-  dated 17–18 Nov 2026.
+  URLs were upgraded (#13, #17, #28, #37, #48); **one more brief was
+  replaced in cleanup round 4** (#50 GTA VI → US firms disclose
+  Chinese AI use) and three URLs upgraded (#45 AP, #46 Al Jazeera
+  direct, #47 NASA); none dropped — the count stays at 50 (3 hero +
+  15 grid + 32 briefs). All 50 verified, all dated 17–18 Nov 2026.
