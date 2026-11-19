@@ -54,11 +54,12 @@ leader's home; Muslims are projected to outnumber Christians by 2035;
 the US and Venezuela sign a military agreement; Bangladesh police clash
 with garment workers; Mideast states push to avert all-out war with
 Iran; the Yemen war may stretch for months as the US pulls a carrier;
-Nigeria bids for a UN Human Rights Council seat; an Iranian Army
-helicopter crashes in Isfahan; Chad closes its border with Sudan; a
-Pakistan building blast toll rises to 16; Iran and the US to hold Geneva
-nuclear talks; Ukraine and Russia set for Geneva peace talks; over 600
-die in an Afghan earthquake.
+the IAEA calls the US–Saudi nuclear deal "very satisfactory"; Houthi
+missiles are fired at Riyadh as the coalition hits 60 targets; a Gaza
+hospital chief's detention is extended six months; Voyager 1 reaches
+one light-day from Earth; Iran and the US to hold Geneva nuclear
+talks; Ukraine and Russia set for Geneva peace talks; GTA VI rolls out
+worldwide after 13 years.
 
 Sources: Reuters, AP, Al Jazeera, IMD, Euronews, CNN, Federal Reserve,
 BBC — 18 Nov 2026. Full links in SOURCES.md.
@@ -66,7 +67,7 @@ BBC — 18 Nov 2026. Full links in SOURCES.md.
 ## How it works
 
 `main.ts` (Node 22, standard library only) copies `entry.png` (1024×1024,
-190 KB) to `/output/entry.png`. The image was drawn with PIL by
+191 KB) to `/output/entry.png`. The image was drawn with PIL by
 `draw_news_image_20261118_v3.py` (flat vector-style illustrations, no AI
 text). Run it locally with:
 
