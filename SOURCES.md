@@ -21,17 +21,56 @@ URL, and the quoted sentence that proves the fact.
   the whole Canary Islands, not El Hierro. Verified: **1,235 landed on
   El Hierro in one day** (record), 1,488 across the Canaries in 24h.
 - **France:** "fourth weekend" was wrong — the 14 Nov march was the
-  **fifth** consecutive weekend of cost-of-living protests.
+  **fifth** consecutive weekend of cost-of-living protests. That brief
+  was later replaced anyway (see cleanup below): the march was 14 Nov,
+  outside the 17–18 Nov window.
 - **Como:** the 9–1 win over Lens was a **friendly**, not a Champions
-  League match. The image body never claimed otherwise.
+  League match — and it was played 4 Nov, outside the 17–18 Nov window.
+  The whole story was replaced by İmamoğlu (see cleanup below).
 - **Nvidia board:** source upgraded from paisakawach.com to AP/Barchart.
+
+## Cleanup round 2 (19 Nov 2026) — stale briefs replaced
+
+The image section is headed "ALSO ON WEDNESDAY 18 NOVEMBER", so every
+brief in it must be dated 17–18 Nov. Nine stories were outside that
+window and have been replaced with verified 17–18 Nov stories; none
+were dropped, so the count stays at 50.
+
+- **Grid #14** Como 9–1 (friendly, 4 Nov) → **İmamoğlu jailed again**
+  (Reuters, 18 Nov). Icon changed ball → parliament, tag EUROPE · SPORT
+  → EUROPE · POLITICS, map dot moved to Istanbul.
+- **Brief #23** France fifth-weekend protests (march 14 Nov) →
+  **France–Malaysia rare earths deal** (announced 17 Nov, reported
+  18 Nov).
+- **Brief #24** supermarket-freezer cyber-attack (1–2 Nov) →
+  **Indonesia–China $71.8bn partnerships** (Reuters, 18 Nov).
+- **Brief #25** Venezuela $12bn oil revenue (12 Nov) → **Uganda
+  activist Mugumya charged in military court** (Reuters, 18 Nov).
+- **Brief #27** Herzog tasks Eisenkot (7–8 Nov) → **Mélenchon could
+  win 2027 French presidency** (Reuters, 18 Nov).
+- **Brief #28** UN elects ICJ judges (4 Nov) → **UK sanctions eight
+  Israeli settlement firms** (announced 17 Nov, reported 18 Nov).
+- **Brief #29** El Hierro migrants (14 Nov) → **Waymo pulls robotaxis
+  off US freeways** (Reuters 17 Nov; BBC/thebullpost 18 Nov).
+- **Brief #30** Gaza child amputees / Euro-Med (4 Nov) → **UNICEF:
+  64 children killed in Yemen** (UNICEF press release, 18 Nov).
+- **Brief #37** Ecuador fishermen sue Trump (16 Nov) → **Mexico
+  cartel violence after El Mencho killing** (BBC, 18 Nov).
+- **By the numbers:** "9–1 Como's record win" replaced with **"5,400
+  measles cases in US"** (grid #8, verified) — the Como slot is gone
+  entirely.
+- **Map dots re-spread** so the new Istanbul dot does not collide with
+  its neighbours: Kerch #2 (42,46), Knesset #4 (32,28), Gaza #11
+  (22,23), Quad #15 (124,12), Ukraine #17 (18,58). This also fixed two
+  pre-existing near-overlaps (Knesset/Kerch, Shenzhen/Quad). All 18
+  numbered dots are now ≥16.5px apart on the 616×108 map.
 
 ## "By the numbers" trace
 
 - **56–44 Senate majority** → grid #10 "Peltola wins; Democrats hold 56"
   + Reuters "56–44 Senate majority".
 - **€45bn EU loan for Ukraine** → grid #5.
-- **9–1 Como's record win** → grid #14.
+- **5,400 measles cases in US** → grid #8 (first time in 26 years; 5,400 cases).
 - **−561 Dow points lost** → grid #13 + Reuters final figures.
 
 ## The 50 stories
@@ -51,7 +90,7 @@ URL, and the quoted sentence that proves the fact.
 | 11 | COLD KILLS IN GAZA CAMPS — Cold kills; 150,000 tents blocked. | https://reliefweb.int/report/occupied-palestinian-territory/atrocity-alert-no-503-israel-and-occupied-palestinian-territory-ethiopia-and-afghanistan | "A joint UN stakeout led by UK, Qatar and Jordan involving 53 countries; over 150,000 [tents] awaiting entry approval just outside Gaza; an infant died from hypothermia." (ReliefWeb Atrocity Alert No. 503, 18 Nov) |
 | 12 | FED MINUTES DUE 2 P.M. — October hold 10–2; two wanted a hike. | https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm | "Minutes of the FOMC's 27–28 Oct 2026 meeting released Wed 18 Nov 2026 at 2:00 p.m. ET; the 28 Oct statement held the federal-funds target at 3.75%–4% by a 10–2 vote; Lisa Cook and Beth Hammack preferred a quarter-point increase." (Federal Reserve) |
 | 13 | DOW SINKS AS NVIDIA FALLS — Dow −561; Nvidia −2.9% on $115.8bn. | https://theretest.com/brief/2026-11-18-close | "The Dow fell 561.25 points, or 1.11%, to 50,198.17, Reuters reported; Nvidia initially jumped 2.7% on its better-than-expected results and forecast, AP reported, then gave up the gain and closed down 2.9%, Reuters reported." Revenue $115.8bn (+103%): https://forbes-forbescom-live.non-prod.zephrcf.com/sites/fionariley/2026/11/17/nvidia-reports-strong-1158-billion-quarterly-revenue-in-first-earnings-post-jensen-huang/ |
-| 14 | COMO'S 9–1 ROUT AT LENS — 9–1 at Lens; Douvikas hat-trick. | https://a-sports.tv/en/news/serie-a-s-9-1-scoreline-the-biggest-in-60-years-como-defeated-lens-in-a-friendly-match/ | "Como defeated Lens 9–1 in a friendly match; Anastasios Douvikas scored a hat-trick." (The 9–1 was a friendly, not a Champions League match.) |
+| 14 | İMAMOĞLU JAILED AGAIN — Court adds 2 years, new ban. | https://www.reuters.com/business/media-telecom/turkish-court-hands-new-sentence-political-ban-jailed-istanbul-mayor-media-says-2026-11-18/ | "A Turkish court on Wednesday sentenced jailed Istanbul mayor Ekrem Imamoglu to a further two years in prison for violating the election law and imposed a new political ban on him, local media reported." (Reuters, 18 Nov 15:59 UTC) |
 | 15 | QUAD MEETS IN MANILA — First leaders' meeting in two years. | https://bworldonline.com/world/2026/11/18/794662/trump-meets-key-us-regional-allies-in-manila-ahead-of-china-visit/ | "Trump met India/Japan/Australia leaders in Manila 17 Nov, first Quad leaders' meeting in two years; Trump signed a joint statement with Thai PM Anutin on reciprocal trade in Manila." (BusinessWorld/Reuters, 18 Nov) |
 | 16 | ANTHROPIC PRICES $83 IPO — Above $70–78 range; an $81bn listing. | https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/ | "Anthropic reportedly prices IPO at $83 a share, above projected range" ($70–78); priced $83/share, ~$81.3bn proceeds (largest IPO ever), ~$1.5T fully-diluted valuation, trading Nasdaq under ANT from 19 Nov. (TechCrunch, 18 Nov 22:11 UTC) |
 | 17 | UKRAINE HITS 2 REFINERIES — Zelenskyy hails home-made weapons. | https://gmg-wsls-prod.cdn.arcpublishing.com/news/world/?ref=/topic/World_Compliment_Day/ | "Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails domestically made weapons." (AP world-news page, 18 Nov) |
@@ -60,21 +99,21 @@ URL, and the quoted sentence that proves the fact.
 | 20 | Cyclone Xavier hits Cook Islands as Category 5. | https://safetynews.co.nz/story/category-5-cyclone-xavier-batters-northern-cook-islands-with-gusts-up-to-315km-h | "Category 5, Northern Cook Islands; sustained ~220 km/h, gusts up to 315 km/h." |
 | 21 | Magnitude 6.0 quake strikes Papua New Guinea. | https://wixx.com/2026/11/17/magnitude-6-earthquake-strikes-papua-new-guinea-gfz-says/ | "Magnitude 6 earthquake struck Papua New Guinea 18 Nov, depth 10 km." (Reuters/GFZ) |
 | 22 | World Court to rule Thursday on Myanmar genocide case. | https://srnnews.com/world-court-to-rule-in-rohingya-genocide-case-on-19-november/ | "ICJ will deliver its judgment 19 Nov in Gambia v. Myanmar (Rohingya genocide case, filed 2019)." (Reuters) |
-| 23 | France sees fifth weekend of cost-of-living protests. | https://readnow.cc/article/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages | "Nationwide public-sector strike/protests over cost of living; 14 Nov marches drew 106,000 (Interior Ministry)." The 14 Nov march was the fifth consecutive weekend (Al Jazeera, 17 Nov). |
-| 24 | Cyber-attack hits supermarket freezers across Europe. | https://www.ebryx.com/blogs/when-freezers-become-ovens-inside-europes-supermarket-refrigeration-cyber-attacks | "Attackers tampered with refrigeration in supermarkets across at least 10 European countries, freezers set as high as 50°C; followed Oct 2026 attack on ~700 French supermarkets." (Event 1–2 Nov 2026.) |
-| 25 | US details $12bn in Venezuelan oil and mineral revenue. | https://bworldonline.com/world/2026/11/13/793670/us-handled-12-billion-of-venezuelas-oil-revenues-report-says/ | "US returned >$12bn (nearly 99%) of $12.26bn Venezuela oil/gold/mineral revenue since Maduro ouster Jan 2026." (KPMG/State Dept report, 12 Nov) |
+| 23 | France, Malaysia strike rare earths deal in Kuala Lumpur. | https://www.supplychainbrain.com/general-scm/global-trade-economics/article/16541875/malaysia-loosens-rare-earths-curbs-for-france | "France and Malaysia upgraded ties to a strategic partnership and announced a slew of cooperation deals on November 17, with Kuala Lumpur agreeing to relax export curbs on raw rare earths to support joint development in the sector." (Supply Chain Brain, 18 Nov 08:00 UTC) |
+| 24 | Indonesia, China agree $71.8bn in partnerships. | https://www.reuters.com/world/indonesia-china-agree-four-strategic-partnerships-worth-718-billion-2026-11-18/ | "Indonesia and China agreed on Wednesday four strategic partnerships worth $71.8 billion, including the development of 10 smart cities." (Reuters, 18 Nov 13:29 UTC) |
+| 25 | Uganda activist seized in 2025 faces military court. | https://www.reuters.com/world/africa/ugandan-political-activist-seized-last-year-is-charged-military-court-2026-11-18/ | "A former aide to jailed Ugandan opposition figure Kizza Besigye appeared in military court on Wednesday in the capital Kampala charged with treachery, more than a year after he was seized by armed men." (Reuters, 18 Nov 16:33 UTC) |
 | 26 | MS Dhoni retires from the IPL. | https://www.cricnepal.com/dhoni-retires-from-ipl-takes-up-csk-mentor-role | "CSK announced 17 Nov: MS Dhoni retired as IPL player after 19 years, becomes CSK mentor from 2027." |
-| 27 | Herzog taps Eisenkot to form Israel's next government. | https://www.breitbart.com/politics/2026/11/07/israeli-president-herzog-tasks-eisenkot-with-forming-government-in-setback-for-netanyahu/ | "Herzog tasked Eisenkot with forming government 8 Nov (28 days, extendable 14)." (Event 7–8 Nov 2026.) |
-| 28 | UN elects five judges to the World Court. | https://icj-web.leman.un-icc.cloud/sites/default/files/press-releases/0/000-20261104-pre-01-00-en.pdf | "GA and Security Council elected five ICJ members (Akande UK, Alabrune France, Hmoud Jordan, Lee Singapore, Okowa Kenya) for 9-year terms from 6 Feb 2027." (ICJ press release, 4 Nov) |
-| 29 | Record 1,235 migrants land on El Hierro in a day. | https://www.democrata.es/en/canarias/canarias-breaks-the-historical-record-for-rescues-of-migrants-1488-people-arrive-in-14-cayucos-in-just-24-hours/ | "1,488 migrants in one day (record), 12 boats carrying 1,235 people to El Hierro; 2,331 over Fri–Sat (22 boats) across the whole Canary archipelago." (14 Nov; the 2,331 figure is the archipelago total, not El Hierro alone.) |
-| 30 | NGO: Israel limits care for 1,100 child amputees in Gaza. | https://www.presstv.co.uk/Detail/2026/11/05/780009/euro-med-israel-restricting-treatment-for-1-100-child-amputees-in-gaza | "1,134 children in Gaza underwent limb amputations; Israeli restrictions block treatment abroad." (Euro-Med Monitor report, 4 Nov) |
+| 27 | France's Darmanin: Mélenchon could win 2027 presidency. | https://www.reuters.com/world/french-justice-minister-says-hard-left-leader-melenchon-could-win-presidential-2026-11-18/ | "French Justice Minister Gerald Darmanin said hard-left leader Jean-Luc Melenchon could win the second round of the 2027 presidential election if he faces far-right leader Marine Le Pen." (Reuters, 18 Nov 10:12 UTC) |
+| 28 | UK sanctions eight Israeli settlement firms. | https://www.byteseu.com/2529376/ | "The government of the United Kingdom has imposed sanctions on eight Israeli construction companies involved in building Israeli settlements in the occupied West Bank and a settler group blocking aid to Gaza." (byteseu, 18 Nov 01:30 UTC; sanctions announced Tuesday 17 Nov) |
+| 29 | Waymo pulls driverless taxis off US freeways after ban. | https://thebullpost.press/waymo-pulls-driverless-taxis-from-freeways-across-the-us-after-california-ban/ | "Waymo has stopped offering driverless taxi rides on freeways across the US indefinitely. The Alphabet subsidiary pulled its vehicles from highways nationwide after California banned them from freeways in response to recent traffic incidents." (thebullpost, 18 Nov 22:05 UTC; also BBC Business, 18 Nov) |
+| 30 | UNICEF: 64 children killed in Yemen since September. | https://www.unicef.org/mena/press-releases/64-children-killed-64-injured-yemen-hostilities-approach-three-months | "NEW YORK, 18 November 2026 – At least 64 children have been killed and 64 injured in Yemen since hostilities escalated on 3 September." (UNICEF press release, 18 Nov) |
 | 31 | UK publishes October inflation figures. | https://duke.fm/2026/11/18/uk-inflation-rises-to-one-year-high-of-3-6/ | "CPI 3.6% in year to Oct 2026 (up from 3.5% Sept), core 2.8%, services 3.7%." (ONS, 18 Nov) |
 | 32 | Board of Peace warns Gaza ceasefire could collapse. | https://wixx.com/2026/11/18/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war/ | "Board of Peace 12-page report to UNSC (submitted 17 Nov) warns Gaza ceasefire could collapse; faults Israel and Hamas." (Reuters, 18 Nov) |
 | 33 | Nvidia board rejects Jensen Huang's return as CEO. | https://www.barchart.com/story/news/8871785/ousted-nvidia-ceo-huang-agrees-to-questioning-by-us-lawmakers | "Board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO (chair Harvey Jones, 17 Nov earnings call); Huang resigned 12 Nov; interim CEO Colette Kress (CFO); search firm Heidrick & Struggles." (AP, 17 Nov) |
 | 34 | Carney meets Trump at APEC in Shenzhen. | https://money.ca/news/economy/carney-trump-apec-meeting-trade-deal-tariffs | "18 Nov, Shenzhen APEC, unscheduled ~20-min meeting, no trade deal, agreed to keep talking." |
 | 35 | Jeffries wins House speaker nomination, 251–11. | https://www.whro.org/2026-11-18/democrats-formally-nominate-hakeem-jeffries-for-speaker-of-the-house | "House Democrats nominated Hakeem Jeffries 251–11 in closed-door vote, unopposed, on track to be first Black House speaker; full House vote 3 Jan 2027 (needs 218)." (AP/NPR, 18 Nov) |
 | 36 | Musk 'feels pretty foolish' after $458M midterm spend. | https://blazetrends.com/elon-musk-says-he-feels-pretty-foolish-after-458m-midterm-spending/ | "Musk said 'I feel pretty foolish about having spent so much money and not seeing much for it.' $458M is the Forbes tally (other tallies range $442M–$500M)." (DealBook, 18 Nov) |
-| 37 | Ecuador fishermen sue Trump over boat strike. | https://wncy.com/2026/11/16/ecuadorean-fishermen-sue-trump-administration-over-pacific-drone-attack/ | "Crew of Negra Francisca Duarte II sued Trump administration in Pittsburgh federal court over a March drone attack that sank their vessel, 2 crew seriously burned." (Reuters, 16 Nov) |
+| 37 | Mexico cartel violence spreads after El Mencho killing. | https://meleleh.pages.dev/sport/football/articles/cpd81d7y901o | "At least 25 National Guard officers were killed in the first 24 hours after El Mencho's killing. Violence began in Jalisco state... and has now spread to at least a dozen more regions." (BBC Sport, published 2026-11-18T23:49:42Z) |
 | 38 | El Salvador celebrates attack on gang leader's home. | https://www.kcau9.com/news/international/ap-el-salvadors-president-confirms-and-celebrates-attack-on-home-of-key-haitian-gang-leader/ | "El Salvador's president, Nayib Bukele, said Wednesday that his troops demolished the lavish home of a prominent gang leader in Haiti known as Jeff. It wasn't immediately clear if he was killed." (AP, 18 Nov 09:35 AM CST) |
 | 39 | Muslims to outnumber Christians by 2035, study says. | https://www.pewresearch.org/short-reads/2026/11/18/islam-will-soon-be-the-worlds-largest-religion-but-christianity-will-keep-growing-too/ | "Today, Christians are the largest religious group in the world and Muslims are the second largest. But that will change by 2035, when Muslims will surpass Christians in population, according to new Pew Research Center projections." (Pew, 18 Nov; a projection, not a certainty — 2.57bn Muslims vs 2.52bn Christians by 2035.) |
 | 40 | US and Venezuela sign military agreement. | https://www.military.com/us-and-venezuela-sign-a-deal-to-reestablish-military-ties-hegseth-says-on-visit-to-interim-leaders | "The United States and Venezuela have signed a deal to reestablish military ties, from training to intelligence sharing, U.S. Defense Secretary Pete Hegseth said Wednesday on a visit with the South American nation's interim leaders." (AP, 18 Nov) |
@@ -91,14 +130,15 @@ URL, and the quoted sentence that proves the fact.
 
 ## Notes
 
-- **Date caveats:** a few briefs are slightly older than 18 Nov (supermarket
-  freezers 1–2 Nov; UN judges 3 Nov; Gaza amputees 4 Nov; Herzog/Eisenkot
-  7–8 Nov; Venezuela $12bn 12 Nov; El Hierro 14 Nov). They are real,
-  reported events included as briefs; the image does not date them to
-  18 Nov. The Access24 items #45–46 are timestamped early 19 Nov UTC but
-  are 18 Nov evening US Eastern — the same news cycle.
+- **Dates:** every story in the image is dated **17–18 Nov 2026** — no
+  brief is older than the window, after the cleanup round replaced the
+  nine stale ones (see above). The Access24 items #45–46 are timestamped
+  early 19 Nov UTC but are 18 Nov evening US Eastern — the same news
+  cycle.
 - **Map dots** are regional placements on a stylised dotted world map; in
   dense clusters (Israel/Gaza, US east coast, western Europe) they are
   spread slightly so the numbered dots do not overlap.
-- **No story was dropped or replaced** in this revision. All 50 stories
-  verified; only wording/figures/markers were corrected (see above).
+- **Nine stories were replaced** in the cleanup round (grid #14 + briefs
+  #23, #24, #25, #27, #28, #29, #30, #37); none dropped — the count
+  stays at 50 (3 hero + 15 grid + 32 briefs). All 50 verified, all
+  dated 17–18 Nov 2026.

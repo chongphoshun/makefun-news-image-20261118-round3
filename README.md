@@ -31,8 +31,8 @@ Knesset picks Kahana; EU proposes a €45bn Ukraine loan; Cyclone Akvan
 bears down on India's east coast; Ebola in Congo more than doubles; the
 US loses measles-free status; a Russian jet crashes in Siberia;
 Democrats take Alaska and reach 56 Senate seats; cold kills in Gaza's
-tent camps; the Fed's October minutes are due; the Dow sinks 566 as
-Nvidia tumbles; Como hit nine in the Champions League; the Quad meets
+tent camps; the Fed's October minutes are due; the Dow sinks 561 as
+Nvidia tumbles; İmamoğlu jailed again; the Quad meets
 in Manila; Anthropic prices its IPO at $83; Ukraine hits two Russian
 oil refineries; Mozambique's opposition leader goes on trial.
 
@@ -40,25 +40,25 @@ oil refineries; Mozambique's opposition leader goes on trial.
 
 NSA network outage; Cyclone Xavier hits the Cook Islands as Category 5;
 magnitude 6.0 quake in Papua New Guinea; World Court to rule Thursday on
-the Myanmar genocide case; France's fourth weekend of cost-of-living
-protests; supermarket-freezer cyber-attack across Europe; US details $12bn
-in Venezuelan oil and mineral revenue; MS Dhoni retires from the IPL;
-Herzog taps Eisenkot to form Israel's next government; UN elects five
-World Court judges; record arrivals on El Hierro; NGO on 1,100 child
-amputees in Gaza; UK publishes October inflation figures; Board of Peace
-warns the Gaza ceasefire could collapse; Nvidia's board rejects Jensen
-Huang's return as CEO; Carney meets Trump at APEC; Jeffries wins the
-House speaker nomination 251–11; Musk "feels pretty foolish" after $458M
-of midterm spending; Ecuador fishermen sue Trump over a boat strike;
-El Salvador celebrates an attack on a gang leader's home; Muslims are
-projected to outnumber Christians by 2035; the US and Venezuela sign a
-military agreement; Bangladesh police clash with garment workers; Mideast
-states push to avert all-out war with Iran; the Yemen war may stretch
-for months as the US pulls a carrier; Nigeria bids for a UN Human Rights
-Council seat; an Iranian Army helicopter crashes in Isfahan; Chad closes
-its border with Sudan; a Pakistan building blast toll rises to 16; Iran
-and the US to hold Geneva nuclear talks; Ukraine and Russia set for
-Geneva peace talks; over 600 die in an Afghan earthquake.
+the Myanmar genocide case; France–Malaysia rare earths deal; Indonesia–
+China agree $71.8bn in partnerships; MS Dhoni retires from the IPL;
+Mélenchon could win the 2027 French presidency; UK sanctions eight
+Israeli settlement firms; Waymo pulls driverless taxis off US freeways;
+UNICEF: 64 children killed in Yemen; UK publishes October inflation
+figures; Board of Peace warns the Gaza ceasefire could collapse; Nvidia's
+board rejects Jensen Huang's return as CEO; Carney meets Trump at APEC;
+Jeffries wins the House speaker nomination 251–11; Musk "feels pretty
+foolish" after $458M of midterm spending; Mexico cartel violence after
+the El Mencho killing; El Salvador celebrates an attack on a gang
+leader's home; Muslims are projected to outnumber Christians by 2035;
+the US and Venezuela sign a military agreement; Bangladesh police clash
+with garment workers; Mideast states push to avert all-out war with
+Iran; the Yemen war may stretch for months as the US pulls a carrier;
+Nigeria bids for a UN Human Rights Council seat; an Iranian Army
+helicopter crashes in Isfahan; Chad closes its border with Sudan; a
+Pakistan building blast toll rises to 16; Iran and the US to hold Geneva
+nuclear talks; Ukraine and Russia set for Geneva peace talks; over 600
+die in an Afghan earthquake.
 
 Sources: Reuters, AP, Al Jazeera, IMD, Euronews, CNN, Federal Reserve,
 BBC — 18 Nov 2026. Full links in SOURCES.md.
